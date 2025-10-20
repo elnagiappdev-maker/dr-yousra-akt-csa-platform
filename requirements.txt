@@ -1,0 +1,12 @@
+# Pin Streamlit as requested
+streamlit==1.39.0
+
+# Supabase Python SDK v2 (auth + admin)
+supabase==2.5.1
+
+# Data + imaging
+pandas==2.2.2
+pillow==10.4.0
+
+# Utility
+python-dateutil==2.9.0.post0
