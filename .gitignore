@@ -1,0 +1,7 @@
+﻿# ignore heavy/temporary stuff
+*.zip
+*.7z
+*.rar
+*.tar.gz
+.DS_Store
+Thumbs.db
