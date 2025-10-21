@@ -1,10 +1,13 @@
-# Core
+# Runtime pinned for Streamlit Cloud (see .python-version -> 3.11)
 streamlit==1.39.0
+
+# Data stack compatible with Py 3.11
+numpy==1.26.4
 pandas==2.2.2
 pillow==10.4.0
 python-dateutil==2.9.0.post0
 
-# Supabase SDK v2 (and its deps pinned to stable)
+# Supabase SDK v2 and deps
 supabase==2.6.1
 gotrue==2.4.3
 postgrest==0.14.9
